@@ -1,0 +1,10 @@
+{
+	"student": ["öğrenci" , "talebe" , "mektepli"],
+	"bag": ["çanta","poşet","çuval"],
+	"teacher": ["öğretmen","muallim"],
+	"school":["okul","mektep"],
+	"apple": ["elma"],
+	"donkey":["eşek"],
+	"dinner":["akşam yemeği","papatisli köfte","kodları yazmadan yemek yok"]
+
+}
